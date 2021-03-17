@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sanderphilipse
+- 👀 I’m interested in all things Typescript, functional reactive programming and the Flux paradigm.
+- 🌱 I’m currently learning Rust
+- 📫 You can reach me at sanderphilipse@gmail.com
